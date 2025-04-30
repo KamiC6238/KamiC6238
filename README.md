@@ -1,4 +1,1 @@
-[<picture decoding="async" loading="lazy">
-  <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://pixel-profile-ui.vercel.app/api/github-stats?username=KamiC6238&screen_effect=true&include_all_commits=true&pixelate_avatar=true&theme=fuji&theme=fuji&color=%23ffffffFF" width="860" height="301" />
-</picture>
-](https://pixel-profile-ui.vercel.app/api/github-stats?username=KamiC6238&screen_effect=true&include_all_commits=true&pixelate_avatar=true&theme=fuji&theme=fuji&color=%23ffffffFF)
+![1500x500](https://github.com/user-attachments/assets/f42a5f57-3a7d-475a-82f3-6d60a1d16f82)
